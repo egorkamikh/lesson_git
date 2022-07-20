@@ -1,1 +1,2 @@
-print('Hello Word')
+a=int(input('Vvedite chislo'))
+print('Chislo...', a)
